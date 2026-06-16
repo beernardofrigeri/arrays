@@ -1,0 +1,23 @@
+{
+  "name": "arrays",
+  "version": "1.0.0",
+  "description": "atividades e funções de JS, mais especificamente sobre arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beernardofrigeri/arrays.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beernardofrigeri/arrays/issues"
+  },
+  "homepage": "https://github.com/beernardofrigeri/arrays#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
