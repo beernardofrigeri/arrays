@@ -7,7 +7,7 @@ let i;
 
 for (i = 0; i < 10; i++) {
     numeros.push(Number(prompt("Informe um total de dez números: ")));
-    const num = Number(numeros[i]);
+    let num = Number(numeros[i]);
 
     if (num % 2 === 0) {
         pares.push(num);

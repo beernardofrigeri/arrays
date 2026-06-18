@@ -7,7 +7,7 @@ let i;
 
 for (i = 0; i < 6; i++) {
     numeros.push(Number(prompt("Informe um total de seis números: ")));
-    const num = Number(numeros[i]);
+    let num = Number(numeros[i]);
     
     if (num >= 0) {
         positivos.push(num);
